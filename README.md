@@ -8,4 +8,4 @@ DCXVI :: 616
 Repo
 ----
 
-Just an init repo while I build the crawlers, apps, and gagets for Grimore Studies
+An *init* repo while I build the crawlers, apps, and gagets for **Grimore Studies**
