@@ -6,4 +6,4 @@
 
 ## Repository
 
-An _init_ repo while I build the crawlers, apps, and gagets for **Grimoire Studies**
+An _init_ repository while I build the crawlers, apps, and gadgets for **Grimoire Studies**

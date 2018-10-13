@@ -1,5 +1,8 @@
 # Ideas
 + Text to any 'cult' script
++ research api/scrapers
++ gitbook
+
 
 
 ## Free Names
