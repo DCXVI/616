@@ -5,9 +5,9 @@
 
 
 
-## Free Names
+## Open Project Names
 
-+ XIC = 616 (chi, iota, sigma (ΧΙϚ)
++ 616= XIC  (chi, iota, sigma (ΧΙϚ)
   + Chiiota Stigma
   + ChiIotaStigma
   + chiosi
