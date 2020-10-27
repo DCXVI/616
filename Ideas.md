@@ -1,7 +1,7 @@
 # Ideas
-+ Text to any 'cult' script
++ Text to any _cult_ script
 + research api/scrapers
-+ gitbook
++ gitbooks
 
 
 
