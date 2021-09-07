@@ -13,6 +13,6 @@
   + chiosi
 + 666 (chi, xi, sigma (ΧΞϚ)
   + Chixi Stigma
-+ 'dark' biblia
++ _dark biblia_
 + \*any occult sounding name
 + \*any name
